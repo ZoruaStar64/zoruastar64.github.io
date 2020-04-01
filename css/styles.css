@@ -5,5 +5,29 @@ body {
     color: Royalblue;
   }
   p {
-    color: white;
+    color: navy;
+  }
+
+  a:link {
+    color: DarkCyan;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: DarkCyan;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: limegreen;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
   }
