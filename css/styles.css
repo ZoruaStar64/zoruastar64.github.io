@@ -5,7 +5,10 @@ body {
     color: Royalblue;
   }
   p {
-    color: maroon;
+    color: red;
+  }
+  li {
+    color: red;
   }
 
   a:link {

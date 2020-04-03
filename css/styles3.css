@@ -1,0 +1,33 @@
+body {
+    background-color: palegreen;
+  }
+  h1 {
+    color: Royalblue;
+  }
+  p {
+    color: snow;
+  }
+
+  a:link {
+    color: DarkCyan;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: DarkCyan;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: limegreen;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
