@@ -31,3 +31,7 @@ body {
     background-color: transparent;
     text-decoration: underline;
   }
+  /*centreert paragraven met div*/ 
+div p {
+  text-align: center;
+}
