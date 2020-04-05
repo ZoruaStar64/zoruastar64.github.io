@@ -48,3 +48,23 @@ body {
 div p {
   text-align: center;
 }
+
+/* style the navbar */
+#navbar {
+  overflow: hidden;
+  background-color: lightblue;
+}
+/* Navbar Links */
+#navbar a {
+  float: left;
+  display: block;
+  width: 90px;
+  color: darkcyan;
+  text-align: center;
+  padding: 5px 0;
+  text-decoration: none;
+}
+#navbar a:hover {
+  background-color: limegreen;
+  color: white 
+}
