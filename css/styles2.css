@@ -1,7 +1,7 @@
 /* changes the text's font */
 @font-face {
   font-family: sans-serif;
-  src: url(sansation_light.woff);
+  src: url(sansation-light.woff);
 }
 
 * {
