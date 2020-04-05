@@ -1,3 +1,13 @@
+/* changes the text's font */
+@font-face {
+  font-family: sans-serif;
+  src: url(sansation_light.woff);
+}
+
+* {
+  font-family: sans-serif;
+}
+/* changes colors of many things*/
 body {
     background-color: palegreen;
   }
